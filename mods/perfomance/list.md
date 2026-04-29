@@ -1,4 +1,4 @@
-# Lista de Mods
+# Lista de Mods de Optimizacion
 1.- **Clumps**  
    Mejora la optimizacion de las bolas de experiencias  
 2.- **Controlling**  
