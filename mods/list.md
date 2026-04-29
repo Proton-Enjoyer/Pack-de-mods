@@ -1,54 +1,102 @@
 # Lista de Mods General
 
-1.- **AquaCulture**  
+ **AquaCulture**  
   Mod de Pesca y demas  
     
-2.- **Artifacts**  
+ **Artifacts**  
   Añade accesorios tipo terraria  
     
-3.- **Botania**  
+ **Botania**  
   Mod que añade Magia basado en Plantas  
     
-4.- **CosmeticArmorReworked**  
+ **CosmeticArmorReworked**  
   Añade ranura de armaduras decorativo  
     
-5.- **DungeonCrawl**  
+ **DungeonCrawl**  
   Añade mazmorras y demás  
     
-6.- **EnchantingInfuser**  
+ **EnchantingInfuser**  
   Añade una mesa de encantamientos mas complejas  
-    
-7.- **MysticalAgriculture**  
+
+ **EnchantmentDescription**  
+   Descripcion para Encantamientos  
+
+ **FallingTree**  
+  Para talar rapido  
+
+ **Hwyla**  
+  Para ver info del target al que apuntes  
+
+ **EnderCataclysm**  
+  Añade Bosses  
+
+ **MysticalAgriculture**  
   Botania 2  
-    
-8.- **ConnectedGlass**  
+
+ **Prehistoric Fauna**  
+  Dinosaurios for ender  
+
+ **Storage Drawers**  
+  Organizador de cofres  
+
+ **ToughAsNails**  
+  Te da sed XD  
+
+ **Waystones**  
+  Waystones XD  
+
+ **BetterVillage**  
+  Mejoraba las aldeas  
+
+ **Cgm**  
+  Armas  
+
+ **ConnectedGlass**  
   Conecta los vidrios  
-    
-9.- **EasyVillagers**  
+
+ **DrinkBeer**  
+  Beer for Eliam  
+
+ **EasyVillagers**  
   Facilita interacciones de/con Aldeanos  
-    
-10.- **Ice&Fire**  
+
+ **Emojiful**  
+ Emojis  
+ 
+ **Ice&Fire**  
   Dragones  
     
-11.- **InfernalMobs**  
+ **InfernalMobs**  
   Tunea mobs  
-    
-12.- **Ironchest**  
+  
+**Ironchest**  
   Cofre de distintos materiales upgradeables  
-    
-13.- **Lootr**  
+
+ **Jei**  
+  Mitico jei bro  
+  
+ **Lootr**  
   Hace que haya loot individual por cofre para cada jugador  
     
-14.- **MowziesMobs**  
+ **MowziesMobs**  
   Agrega Jefes  
-    
-15.- **SophisticatedBackpacks**  
+
+ **Rats**  
+  No se, ratas & more  
+  
+ **SophisticatedBackpacks**  
   Agrega Mochilas  
-    
-16.- **Watut**  
+
+ **VehicleMod**  
+  Agrega vehiculos  
+
+ **Veinmining**  
+  Pa minar ores mas rapido  
+  
+ **Watut**  
   Hace que podamos ver lo que hace cada jugador en su inventario  
     
-17.- **XaerosMinimap**  
+ **XaerosMinimap**  
   Minimapa  
     
-18.- 
+ 
