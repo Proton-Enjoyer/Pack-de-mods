@@ -1,4 +1,7 @@
 # Lista de Mods General
+  
+ **Alex'Mobs**  
+  Agrega Mobs XD  
 
  **AquaCulture**  
   Mod de Pesca y demas  
@@ -98,5 +101,9 @@
     
  **XaerosMinimap**  
   Minimapa  
+  
+ **Zoom**  
+ Añade Zoom xD  
+
     
  
