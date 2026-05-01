@@ -105,5 +105,26 @@
  **Zoom**  
  Añade Zoom xD  
 
+**tombstone**
+añade tumbas donde se guardan tus objetos al morir pero esa es solo la paunta de iceberg
+
+**savageandravage**
+añade mas pillagers a las raids
+
+**inventory sorter**
+ordena el inventario con una tecla asignada
+
+**spartan weaponry/shields**
+añade armas tipo espadas hachas y lansas y escudos de diferentes materiales con encatamientos unicos
+
+**OPF**
+el de las fotos custom
+
+**chunky**
+hace algo con los chunks
+
+
+
+
     
  
